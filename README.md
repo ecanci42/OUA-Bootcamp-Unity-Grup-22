@@ -1,8 +1,7 @@
-# OUA-Bootcamp-Unity-Grup-22
 
 # **Takım İsmi**
 
-Takım X
+Unity-Grup-22
 
 # Ürün İle İlgili Bilgiler
 
@@ -69,7 +68,7 @@ Healer
 - low poly ve 2.5D bir oyun olmasına karar verilmiştir.
 
  **Sprint Retrospective**:
-- Oyun herkesin kafasında farklı canladığı için tekrar toplatı yaparak kafa karışılarını gidermemiz gerektiğine karar verdik.
+- Oyun herkesin kafasında farklı canladığı için tekrar toplatı yaparak kafa karışılarını gidermemiz gerektiğine karar verilmiştir.
 
 
 -**Diğer Notlar**:
