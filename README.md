@@ -65,12 +65,12 @@ Healer
 
  ![minigamew](https://github.com/ecanci42/OUA-Bootcamp-Unity-Grup-22/assets/112544606/d3a21da8-7714-441d-8167-4b4ba171d61b)
 
-- **Sprint Review**: 
+ **Sprint Review**:
 - low poly ve 2.5D bir oyun olmasına karar verilmiştir.
 
-Sprint Retrospective:
-Oyun herkesin kafasında farklı canladığı için tekrar toplatı yaparak kafa karışılarını gidermemiz gerektiğine karar verdik.
--
+ **Sprint Retrospective**:
+- Oyun herkesin kafasında farklı canladığı için tekrar toplatı yaparak kafa karışılarını gidermemiz gerektiğine karar verdik.
+
 
 -**Diğer Notlar**:
 - N/A
