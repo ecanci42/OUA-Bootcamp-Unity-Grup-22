@@ -42,6 +42,12 @@ Healer
 
 # Sprint 1
 
+**Sprint Notları**:
+- Proje yönetimi için miro kullanılmasına karar verildi.
+- Oyunun görsel tarzı lowpoly olarak belirlendi.
+- Oyunun türü action-platformer olarak belirlendi.
+- Oyunda minigameslerin olması gerektiğine karar verildi.
+  
 - **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
 
 - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 400 puanlık backlog bulunmaktadır. 4 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
