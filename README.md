@@ -47,6 +47,8 @@ Healer
 - Oyunun görsel tarzı lowpoly olarak belirlendi.
 - Oyunun türü action-platformer olarak belirlendi.
 - Oyunda minigameslerin olması gerektiğine karar verildi.
+
+
   
 - **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
 
