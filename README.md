@@ -47,7 +47,7 @@ Healer
 - Oyunun görsel tarzı lowpoly olarak belirlendi.
 - Oyunun türü action-platformer olarak belirlendi.
 - Oyunda minigameslerin olması gerektiğine karar verildi.
-
+---
 
   
 - **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
@@ -55,7 +55,7 @@ Healer
 - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 400 puanlık backlog bulunmaktadır. 4 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
 
 - **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
-
+---
 - **Toplantı Screenshotları**:
  ([https://imgur.com/a/VXKypX8](https://imgur.com/a/VXKypX8))
 
@@ -71,7 +71,7 @@ Healer
  ![KarakterKontrol](https://github.com/ecanci42/OUA-Bootcamp-Unity-Grup-22/assets/112544606/f6c44a35-6797-4230-b825-1b2de779940e)
 
  ![minigamew](https://github.com/ecanci42/OUA-Bootcamp-Unity-Grup-22/assets/112544606/d3a21da8-7714-441d-8167-4b4ba171d61b)
-
+---
  **Sprint Review**:
 - low poly ve 2.5D bir oyun olmasına karar verilmiştir.
 
