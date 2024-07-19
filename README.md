@@ -111,7 +111,8 @@ Healer
 
 ![minigames-gif](https://github.com/user-attachments/assets/4ee2fcfc-4f86-487c-892d-7e7b8de4dc1a)
 
----
+---![karakter saldıırı](https://github.com/user-attachments/assets/44365604-3477-43f5-bd89-ac641a0a179a)
+
  **Sprint Review**:
 - Platform ve tuzakların nasıl olaması gerektiğine karar verildi.
 
