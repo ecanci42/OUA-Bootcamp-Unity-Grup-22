@@ -101,7 +101,7 @@ Healer
  ([https://imgur.com/a/bULoGpy](https://imgur.com/a/bULoGpy))
 
 - **Sprint board update**: Sprint board screenshotları: 
-![TeamBoard1 Sprint](https://github.com/ecanci42/OUA-Bootcamp-Unity-Grup-22/assets/112544606/d6721468-a3aa-4350-b04f-1d71b78210c3)
+![sprint2teamborad](https://github.com/user-attachments/assets/75eaeeab-3108-4d55-a6f5-4fc0d40a61a4)
 
 - **Ürün Durumu**:
 
