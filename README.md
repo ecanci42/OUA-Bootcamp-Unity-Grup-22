@@ -87,7 +87,40 @@ Healer
 # Sprint 2
 
 
+**Sprint Notları**:
+- Karakter tasarımı blender üzerinden tamamlandı.
+- Oynanış mekanikleri geliştirldi ve mobile uyarlandı.
+- Dövüş mekanikleri geliştirlmiye devam ediyor.
+- Minigames'e UI bileşenleri eklendi.
 ---
+
+  
+- **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
+
+- **Toplantı Screenshotları**:
+ ([https://imgur.com/a/bULoGpy](https://imgur.com/a/bULoGpy))
+
+- **Sprint board update**: Sprint board screenshotları: 
+![TeamBoard1 Sprint](https://github.com/ecanci42/OUA-Bootcamp-Unity-Grup-22/assets/112544606/d6721468-a3aa-4350-b04f-1d71b78210c3)
+
+- **Ürün Durumu**:
+
+ ![karakter oynanış](https://github.com/user-attachments/assets/c7f8323b-d9a1-4bd1-98d0-08e66343db94)
+
+![karakter3d tasarım](https://github.com/user-attachments/assets/bbbcd484-0aec-4da6-a208-c20b93827672)
+
+![minigames-gif](https://github.com/user-attachments/assets/4ee2fcfc-4f86-487c-892d-7e7b8de4dc1a)
+
+---
+ **Sprint Review**:
+- Platform ve tuzakların nasıl olaması gerektiğine karar verildi.
+
+ **Sprint Retrospective**:
+- Oyun herkesin kafasında farklı canladığı için tekrar toplatı yaparak kafa karışılarını gidermemiz gerektiğine karar verilmiştir.
+
+
+-**Diğer Notlar**:
+- N/A
 
 # Sprint 3
 
