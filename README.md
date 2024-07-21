@@ -99,9 +99,6 @@ paylaşarak feedbackler verilmiştir.
 - Oynanış mekanikleri geliştirldi ve mobile uyarlandı.
 - Dövüş mekanikleri geliştirlmiye devam ediyor.
 - Minigames'e UI bileşenleri eklendi.
----
-
-  
 
 
 - **Toplantı Screenshotları**:
