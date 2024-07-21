@@ -86,6 +86,8 @@ Healer
 
 # Sprint 2
 
+- **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
+
 Daily Scrum: 
 Daily Scrum toplantılarımızı Whatsapp üzerinden
 gerçekleştirildi.Hafta sonları Discord üzeriden toplatılar yapılmıştır.
@@ -100,7 +102,7 @@ paylaşarak feedbackler verilmiştir.
 ---
 
   
-- **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
+
 
 - **Toplantı Screenshotları**:
  ([https://imgur.com/a/bULoGpy](https://imgur.com/a/bULoGpy))
