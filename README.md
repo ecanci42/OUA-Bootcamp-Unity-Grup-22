@@ -117,7 +117,7 @@ Healer
 - Platform ve tuzakların nasıl olaması gerektiğine karar verildi.
 
  **Sprint Retrospective**:
-- Oyun herkesin kafasında farklı canladığı için tekrar toplatı yaparak kafa karışılarını gidermemiz gerektiğine karar verilmiştir.
+- Bu spirint'te her şey olması gerektiği gibiydi bir sorun yaşamadık.
 
 
 -**Diğer Notlar**:
