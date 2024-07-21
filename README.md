@@ -86,6 +86,11 @@ Healer
 
 # Sprint 2
 
+Daily Scrum: 
+Daily Scrum toplantılarımızı Whatsapp üzerinden
+gerçekleştirildi.Hafta sonları Discord üzeriden toplatılar yapılmıştır.
+whatsapp grubu üzeriden tasarım ve kod kısmlarındaki gelişmeleri 
+paylaşarak feedbackler verilmiştir.
 
 **Sprint Notları**:
 - Karakter tasarımı blender üzerinden tamamlandı.
