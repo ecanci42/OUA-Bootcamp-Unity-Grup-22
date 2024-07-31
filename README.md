@@ -130,3 +130,35 @@ paylaşarak feedbackler verilmiştir.
 # Sprint 3
 
 ---
+- **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
+
+Daily Scrum: 
+Daily Scrum toplantılarımızı Whatsapp üzerinden
+gerçekleştirildi.Hafta sonları Discord üzeriden toplatılar yapılmıştır.
+whatsapp grubu üzeriden tasarım ve kod kısmlarındaki gelişmeleri 
+paylaşarak feedbackler verilmiştir.
+
+**Sprint Notları**:
+- Level tasarımları tamamlando.
+- Oynanış mekanikleri tamamlandı.
+- Dövüş mekanikleri tamamlandı.
+- Minigames tamamlandı.
+
+
+- **Toplantı Screenshotları**:
+ 
+
+- **Sprint board update**: Sprint board screenshotları: 
+
+
+- **Ürün Durumu**:
+
+
+
+
+ **Sprint Review**:
+- Level tasarımlarının nasıl olaması gerektiğine karar verildi.
+
+ **Sprint Retrospective**:
+- Bu spirint'te her şey olması gerektiği gibiydi bir sorun yaşamadık.
+
