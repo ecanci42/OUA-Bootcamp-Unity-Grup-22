@@ -139,25 +139,27 @@ whatsapp grubu üzeriden tasarım ve kod kısmlarındaki gelişmeleri
 paylaşarak feedbackler verilmiştir.
 
 **Sprint Notları**:
-- Level tasarımları tamamlando.
+- Level tasarımları tamamlandı.
 - Oynanış mekanikleri tamamlandı.
-- Dövüş mekanikleri tamamlandı.
+- Dövüş mekanikleri iptal edildi.
 - Minigames tamamlandı.
 
 
 - **Toplantı Screenshotları**:
- 
+ https://imgur.com/a/FpMh7Gg
 
 - **Sprint board update**: Sprint board screenshotları: 
 
+![Ekran görüntüsü 2024-08-02 145249](https://github.com/user-attachments/assets/6050f7d9-fd54-482a-a4a8-99fc4b5380b1)
 
 - **Ürün Durumu**:
 
-
-
+![sondurum1](https://github.com/user-attachments/assets/fe453600-db9f-4b06-92ac-3bf728f89adb)
+![sondurum2](https://github.com/user-attachments/assets/6eb5868d-5cef-48a1-a4fd-f9f2b46f66ca)
+![sondurum3](https://github.com/user-attachments/assets/0203f2e6-1395-436f-bc7c-7237eec987c9)
 
  **Sprint Review**:
-- Level tasarımlarının nasıl olaması gerektiğine karar verildi.
+- Level tasarımlarının nasıl olaması gerektiğine ve dövüş mekaniniğinin iptal edilmesine karar verildi.
 
  **Sprint Retrospective**:
 - Bu spirint'te her şey olması gerektiği gibiydi bir sorun yaşamadık.
